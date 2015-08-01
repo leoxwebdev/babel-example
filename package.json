@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "How to setup and write next generation JavaScript (ES6 / ES2015, ES7 / ES2016 etc) with the Babel compiler. For an https://egghead.io lesson.",
   "scripts": {
+      "build": "babel src -d dist -w -s"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,6 @@
   },
   "homepage": "https://github.com/trevordmiller/babel-example#readme",
   "devDependencies": {
+    "babel": "^5.8.20"
   }
 }
