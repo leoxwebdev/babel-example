@@ -1,0 +1,19 @@
+{
+  "name": "babel-example",
+  "version": "1.0.0",
+  "description": "How to setup and write next generation JavaScript (ES6 / ES2015, ES7 / ES2016 etc) with the Babel compiler. For an https://egghead.io lesson.",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevordmiller/babel-example.git"
+  },
+  "author": "Trevor D. Miller <trevordmiller@icloud.com> (www.trevordmiller.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trevordmiller/babel-example/issues"
+  },
+  "homepage": "https://github.com/trevordmiller/babel-example#readme",
+  "devDependencies": {
+  }
+}
